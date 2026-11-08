@@ -1,0 +1,6 @@
+{
+  "name": "Magical Diwali Surprise & Greeting",
+  "description": "A stunning, personalized Happy Diwali greeting website with interactive fireworks, glowing diyas, ambient music, rangoli patterns, and shareable surprise gift links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
